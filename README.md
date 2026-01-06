@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Fatima Naeem
 
 🎓 Cybersecurity & Computer Science Student
-🔐 Passionate about Cybersecurity, Network Security, and Systems
+🔐 Passionate about Cybersecurity, Network Security, and Penetration Testing
 🚀 Always eager to learn, experiment, and grow through hands-on practice
 
 ## 🚀 About Me
@@ -42,6 +42,18 @@ Real-world security implementations
 🐧 Hands-on practice with Linux / Kali Linux
 
 🌐 Networking labs using Cisco Packet Tracer
+
+## 🛡️ Penetration Testing 
+
+🔎 Conducted basic penetration testing as part of an internship project
+
+🧰 Used Kali Linux tools for reconnaissance and vulnerability identification
+
+🌐 Performed network and web application security testing
+
+📄 Understood attack surfaces, common vulnerabilities, and mitigation basics
+
+🧠 Developed a security-first mindset through practical testing scenarios
 
 ## 🛠️ Languages and Tools
 <p align="left"> <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> </p>
