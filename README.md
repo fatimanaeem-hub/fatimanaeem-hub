@@ -1,40 +1,51 @@
-# Hi 👋, I'm Fatima Naeem
+## Hi 👋, I'm Fatima Naeem
 
-🎓 A passionate cybersecurity student always eager to learn and explore!
-
-
+🎓 Cybersecurity & Computer Science Student
+🔐 Passionate about Cybersecurity, Network Security, and Systems
+🚀 Always eager to learn, experiment, and grow through hands-on practice
 
 ## 🚀 About Me
 
-🌱 I’m currently learning Computer Networks, Probability and Statistics
+🌱 Currently strengthening my skills in Computer Networks, Probability & Statistics
+🔐 Strong interest in Cybersecurity, Network Security, and Operating Systems
+💻 Solid foundation in C++, Python, OOP, Data Structures, Algorithms, Databases, and Web Programming
 
-👯 I’m looking to collaborate on Oop,Pf,Data Structures Projects
+## 👯 Open to collaborating on:
 
-🤝 I’m looking for help with Computer Networks
+Cybersecurity & Networking projects
 
-💬 Guide me about how to make my coding skills more better
+OOP, PF, Data Structures & Algorithms projects
 
-📫 How to reach me i232046@isb.nu.edu.pk
+## 🤝 Looking to learn more about:
 
-### 🌐 Connect with Me
+Advanced Computer Networks
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fatima-naeem19" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+Real-world security implementations
 
-   <a href="mailto:fatima123@isb.nu.edu.pk">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+💬 Always open to guidance on improving coding skills, problem-solving, and system-level understanding
 
-### 🛠️ Languages and Tools
+## 📫 Reach me at: i232046@isb.nu.edu.pk
 
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
- 
-</p>
+## 🌐 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/fatima-naeem19" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> </p> <p align="left"> <a href="mailto:i232046@isb.nu.edu.pk"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+## 🔐 Cybersecurity & Networking Experience
+
+🧪 PCAP analysis using Wireshark, Zeek, NetworkMiner
+
+🔍 Network traffic inspection & protocol analysis
+
+🧱 Firewall rules & Network Security concepts
+
+🚨 Understanding and analyzing Suricata IDS/IPS
+
+🐧 Hands-on practice with Linux / Kali Linux
+
+🌐 Networking labs using Cisco Packet Tracer
+
+## 🛠️ Languages and Tools
+<p align="left"> <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> </p>
+
+## 🎯 Current Goal
+
+To grow into a skilled cybersecurity professional with strong fundamentals in networks, systems, and secure coding, and gain real-world security experience through projects and internships.
